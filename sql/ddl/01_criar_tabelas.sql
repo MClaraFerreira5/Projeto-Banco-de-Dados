@@ -93,6 +93,7 @@ CREATE TABLE IF NOT EXISTS manutencao (
     descricao_problema TEXT NOT NULL,
     custo_reparo DECIMAL(10, 2),
     id_funcionario INT NOT NULL,
+    id_quarto INT NOT NULL,
     FOREIGN KEY (id_funcionario) REFERENCES funcionario(id_funcionario),
     FOREIGN KEY (id_quarto) REFERENCES quarto(id_quarto)
 );
