@@ -29,8 +29,8 @@ A descrição completa do cenário encontra-se na documentação do projeto.
 ## 🛠️ Tecnologias Utilizadas
 
 * ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) **Editor de Código**
-* ![SQLTools](https://img.shields.io/badge/SQLTools-Extension-blue?style=for-the-badge) **Extensão para gerenciamento de BD**
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) **Controle de Versão**
+* **BeeKeeper Studio** (Para gerenciamento do Banco)
 * **BrModelo** (Para modelagem conceitual)
 
 ---
